@@ -12,7 +12,7 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 
 I ate:
 
-1) fruit
-2) granola 
-3) cranberries
-4) yogurt
+1. fruit
+2. granola 
+3. cranberries
+4. yogurt
